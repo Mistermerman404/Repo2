@@ -1,1 +1,9 @@
-dfghj
+package testcases;
+
+public class lubieplacki {
+
+	public static void main(String[] args)
+	{
+	
+    	System.out.println("Lubie Placki");
+	}}
